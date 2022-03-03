@@ -1,7 +1,7 @@
 function lolzzz() {
     try {
         console.clear()
-        console.log('%c [+] ', 'background: #222; color: #00FFFF', 'Matematikfessor Multiplikation Hack);
+        console.log('%c [+] ', 'background: #222; color: #00FFFF', 'Matematikfessor Multiplikation Hack');
         console.log("Searching for question");
         var question1 = document.getElementsByClassName('mjx-char MJXc-TeX-main-R')[0].innerText;
         var sss = document.getElementsByClassName('mjx-char MJXc-TeX-main-R').innerText;
